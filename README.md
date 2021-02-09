@@ -10,4 +10,11 @@ This is an Arduino Project that could read and playing more than one note simult
 # About how to use:
 - [Arduino midi library](https://github.com/FortySevenEffects/arduino_midi_library) Make sure you have it installed on arduino IDE
 - [Tone.lib](https://github.com/bhagman/Tone) Install the Tone Library for multiple buzzers.
-- Notice that this program is using the I2C communication (For some reasons the tone library conflict with the Midi libaray). 
+ 
+ Notice that this program is using the I2C communication (For some reasons the tone library conflict with the Midi libaray). 
+
+# For MIDI Communication
+- Flash [HIDUINO](https://github.com/ddiakopoulos/hiduino) or [mocuLUFA](https://github.com/kuwatay/mocolufa) on to the board. 
+- Or useing DIN socket.
+- Or even using [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) and [hairlessMIDI](http://projectgus.github.io/hairless-midiserial/) to make a Serial to MIDI communication.
+There were fully descriptions on some other websites.
