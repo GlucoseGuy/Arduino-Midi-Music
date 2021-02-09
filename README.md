@@ -8,4 +8,4 @@ This is an Arduino Project that could read and playing more than one note simult
 - Resistors (Reduce the volume)
 
 # About how to use:
-[Arduino midi library](https://github.com/FortySevenEffects/arduino_midi_library)
+[Arduino midi library](https://github.com/FortySevenEffects/arduino_midi_library) Make sure you have it installed on arduino IDE
