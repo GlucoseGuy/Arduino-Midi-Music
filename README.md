@@ -21,4 +21,4 @@ This is an Arduino Project that could read and playing more than one note simult
 - Flash [HIDUINO](https://github.com/ddiakopoulos/hiduino) or [mocuLUFA](https://github.com/kuwatay/mocolufa) on to the board. 
 - Or useing DIN socket.
 - Or even using [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) and [hairlessMIDI](http://projectgus.github.io/hairless-midiserial/) to make a Serial to MIDI communication.
-There were fully descriptions on some other websites.
+There are fully descriptions on some other websites.
