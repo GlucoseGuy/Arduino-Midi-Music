@@ -1,5 +1,7 @@
 # Arduino_Midi
 This is an Arduino Project that could read and playing more than one note simultaneously on buzzers (You can hook up whatever you want, like Tesla Coils, stepper motors, floppy drives or whatever can play frequencies).
+If you need more channels, simply add some other slave boards.
+Feel free to change & modify my code.
 
 # Hardware requirements: 
 - Any arduino board (Uno and mega are recommended)
