@@ -17,7 +17,7 @@ Feel free to change & modify my code.
  
  # Wiring 
  - Wiring up your buzzers on pin 2,3,4,5,6,7 on Mega board.
- - Connecting an I2C bridge between your Uno and Mega (Pin A5 to Pin 22, Pin A4 to Pin21, connect all negatives together). 
+ - Connecting an I2C bridge between your Uno and Mega (Pin A5 to Pin 21, Pin A4 to Pin 20, connect all negatives together). 
 
 # For MIDI Communication
 - Flash [HIDUINO](https://github.com/ddiakopoulos/hiduino) or [mocuLUFA](https://github.com/kuwatay/mocolufa) on to the board. 
