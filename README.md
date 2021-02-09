@@ -8,6 +8,6 @@ This is an Arduino Project that could read and playing more than one note simult
 - Resistors (Reduce the volume)
 
 # About how to use:
-[Arduino midi library](https://github.com/FortySevenEffects/arduino_midi_library) Make sure you have it installed on arduino IDE
-[Tone.lib](https://github.com/bhagman/Tone) Install the Tone Library for multiple buzzers.
-Notice that this program is using the I2C communication (For some reasons the tone library conflict with the Midi libaray). 
+-[Arduino midi library](https://github.com/FortySevenEffects/arduino_midi_library) Make sure you have it installed on arduino IDE
+-[Tone.lib](https://github.com/bhagman/Tone) Install the Tone Library for multiple buzzers.
+-Notice that this program is using the I2C communication (For some reasons the tone library conflict with the Midi libaray). 
