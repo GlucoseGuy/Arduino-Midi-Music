@@ -12,6 +12,10 @@ This is an Arduino Project that could read and playing more than one note simult
 - [Tone.lib](https://github.com/bhagman/Tone) Install the Tone Library for multiple buzzers.
  
  Notice that this program is using the I2C communication (For some reasons the tone library conflict with the Midi libaray). 
+ 
+ # Wiring 
+ - Wiring up your buzzers on pin 2,3,4,5,6,7 on Mega board.
+ - Connecting an I2C bridge between your Uno and Mega.
 
 # For MIDI Communication
 - Flash [HIDUINO](https://github.com/ddiakopoulos/hiduino) or [mocuLUFA](https://github.com/kuwatay/mocolufa) on to the board. 
