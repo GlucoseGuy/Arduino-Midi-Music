@@ -24,3 +24,8 @@ Feel free to change & modify my code.
 - Or useing DIN socket.
 - Or even using [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) and [hairlessMIDI](http://projectgus.github.io/hairless-midiserial/) to make a Serial to MIDI communication.
 There are fully descriptions on some other websites.
+
+# An recent update with bug fixing
+- (I2C corrupted during sending midi file)
+- (Devices run the same code for multiple times) 
+- All the code are latest uploaded and worked well
